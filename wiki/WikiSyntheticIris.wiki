@@ -1,0 +1,26 @@
+#summary Anatomy Based Modeling for Generating Synthetic Iris Images.
+#labels Phase-Design,Phase-Implementation
+
+= Introduction =
+
+With the lack of data and the thirst for the performance evaluation, an optional solution to the problem of extensive algorithm testing is possible: synthetically generating a large scale data set of iris images. The purpose of this work is not to provide a large database of iris images that will replace the real world data, but rather provide an option to compare efficiency, limitations, and capabilities of newly designed iris recognition algorithms through their testing on this large scale synthetic iris data set.
+
+
+= Details =
+
+In this work, the generation of an iris image can be subdivided into five major steps:
+
+1) Generate continuous fibers in cylindrical coordinates ($Z$, $R$, and
+$\Theta$), where the axis $Z\in(-\infty,\infty)$ is the depth of the
+iris, $R\in[0,\infty)$ is the radial distance, and $\Theta\in[0,2\pi)$ is the clockwise rotational angle with a zero value corresponding to the 3 o'clock position.
+
+2) Generated 3D fibers are then projected into a 2D polar space ($R,\Theta$), and furthermore transformed to Cartesian pixel coordinates ($X,Y$) forming a 2D frontal view fiber image.
+
+3) Add a top layer with an irregular edge.
+
+4) Blur the root of the iris to make that area look continuous.
+Then add a smoothed Gaussian noise layer to make the top layer
+bumpy.
+
+5) Based on a required degree of eyelid opening, draw two low
+frequency cosine curves for the eyelids.
