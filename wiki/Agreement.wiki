@@ -10,6 +10,6 @@ Jinyu Zuo; Natalia A. Schmid; Xiaohan Chen; , "On Generation and Analysis of Syn
 
 2) to use the codes and generated data for research purposes only.
 
-3) not to provide the codes or generated data to second parties without the notice of copyright (© Jinyu Zuo and Natalia A. Schmid) and this agreement.
+3) not to provide the codes or generated data to second parties without the notice of copyright (© Natalia A. Schmid and Jinyu Zuo) and this agreement.
 
-4) if I reproduce generated data in electronic or print media, to use only with the notice of copyright (© Jinyu Zuo and Natalia A. Schmid).
+4) if I reproduce generated data in electronic or print media, to use only with the notice of copyright (© Natalia A. Schmid and Jinyu Zuo).
