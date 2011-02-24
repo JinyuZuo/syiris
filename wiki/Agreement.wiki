@@ -1,0 +1,15 @@
+#summary Agreement
+
+AGREEMENT ON USE OF SYIRIS SYNTHETIC IRIS CODES OR GENERATED DATA
+
+I agree
+
+1) to cite Zuo, Schmid, and Chen (2007) in any paper of mine or my collaborators that makes any use of the software (codes) or data generated from these codes. The reference is:
+
+Jinyu Zuo; Natalia A. Schmid; Xiaohan Chen; , "On Generation and Analysis of Synthetic Iris Images," Information Forensics and Security, IEEE Transactions on , vol.2, no.1, pp.77-90, March 2007
+
+2) to use the codes and generated data for research purposes only.
+
+3) not to provide the codes or generated data to second parties without the notice of copyright (© Jinyu Zuo and Natalia A. Schmid) and this agreement.
+
+4) if I reproduce generated data in electronic or print media, to use only with the notice of copyright (© Jinyu Zuo and Natalia A. Schmid).
